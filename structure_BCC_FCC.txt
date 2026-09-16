@@ -1,0 +1,17 @@
+DescriptorNames	Coor OmegaA OmegaS PV
+SiteNames	A B C
+StrName	Coor_A	Coor_B	Coor_C	OmegaA_A	OmegaA_B	OmegaA_C	OmegaS_A	OmegaS_B	OmegaS_C	PV_A	PV_B	PV_C
+BCC	14	X	X	0.866646249	X	X	0.248872795	X	X	53.05512343	X	X
+FCC	12	X	X	0.897597901	X	X	0.399887002	X	X	54.90571602	X	X
+STOP
+
+
+Coor S L= n_{c} M= Subscript["n", "c"]
+OmegaA S L= \Omega_{m} M= Subscript["\[Omega]", "m"]
+OmegaS S L= \Omega_{\sigma} M= Subscript["\[Omega]", "\[Sigma]"]
+PV S L= V_{p} M= Subscript["V", "p"]
+
+
+For details,
+
+Seong-Hoon Jang, Di Zhang, Xue Jia, Hung Ba Tran, Linda Zhang, Ryuhei Sato, Yusuke Hashimoto, Yusuke Ohashi, Toyoto Sato, Kiyoe Konno, Shin-ichi Orimo, Hao Li; A unified descriptor framework for hydrogen storage capacity and equilibrium pressure in interstitial hydrides. Chem. Sci. 2026; 17 (27): 13396–13406. https://doi.org/10.1039/d6sc03089k

@@ -1,0 +1,10 @@
+*************NOTES*************
+Example of U in AnalyzeDescriptors
+n U Na * 1
+rTR U Ni Sc Ti V Cr Mn Fe Co Cu Zn Y Zr Nb Mo Tc Ru Rh Pd Ag Cd Hf Ta W Re Os Ir Pt Au Hg Rf Db Sg Bh Hs / All
+rTRe U Ni Sc Ti V Cr Mn Fe Co Cu Zn Y Zr Nb Mo Tc Ru Rh Pd Ag Cd Hf Ta W Re Os Ir Pt Au Hg Rf Db Sg Bh Hs / ! Ni Sc Ti V Cr Mn Fe Co Cu Zn Y Zr Nb Mo Tc Ru Rh Pd Ag Cd Hf Ta W Re Os Ir Pt Au Hg Rf Db Sg Bh Hs
+*******************************
+For numerator and denominator both,
+you can do one of four: specify AtomKinds, set "All", use "!"(exclude), or fix number.
+*******************************
+Multiplication (*) or division (/): either is fine. But set one.

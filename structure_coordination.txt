@@ -1,0 +1,35 @@
+DescriptorNames	Coor
+SiteNames	A	B	C
+StrName	Coor_A	Coor_B	Coor_C
+Perovskites	12	06	X
+Perovskite-related,brownmillerites	07	05	X
+Perovskite-related,Ruddlesden-Popper	09	06	X
+Perovskite-related,Dion-Jacobson	08	05	06
+Perovskite-related,hexagonal	12	06	X
+Perovskite-related,others(V-layered)	05	06	X
+Perovskite-related,others(Ti-layered)	06	06	X
+Perovskite-related,others(Nd-layered)	06	07	06
+Perovskite-related,others(A-site-vacancies)	08	06	X
+Fluorites	08	X	X
+d-Bi2O3	08	X	X
+BIMEVOX	05	06	X
+Scheelites	08	04	X
+Apatites	08	04	X
+Cuspidines	07	04	X
+Melilites	08	04	X
+Garnets	08	05	X
+Pyrochlores	08	06	X
+Columbites	06	06	X
+a-SrSiO3	08	04	X
+Bi2UO6	05	10	X
+STOP
+
+
+Radius	B Coor
+
+
+
+
+For details,
+
+Jang, SH., Kiyohara, S., Takamura, H. et al. Charting the Landscape of Oxygen Ion Conductors: A 60-Year Dataset with Interpretable Regression Models. Sci Data 13, 778 (2026). https://doi.org/10.1038/s41597-026-07100-x

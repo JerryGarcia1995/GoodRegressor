@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use GoodRegressor in your research, please cite the following work."
+title: "GoodRegressor"
+type: software
+authors:
+  - family-names: Jang
+    given-names: Seong-Hoon
+
+version: 1.0.0
+date-released: 2026-09-16
+
+repository-code: "https://github.com/JerryGarcia1995/GoodRegressor"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Jang
+      given-names: Seong-Hoon
+  title: "GoodRegressor: A Hierarchical Inductive Bias for Navigating High-Dimensional Compositional Space"
+  doi: "10.48550/arXiv.2510.18325"

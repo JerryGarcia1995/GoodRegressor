@@ -1,0 +1,6 @@
+g++ GoodParser.cpp -o GoodParser.x -std=c++11
+mpicxx GoodDesigner.cpp -o GoodDesigner.x -std=c++11
+g++ GoodCurator.cpp -o GoodCurator.x -std=c++11
+mpicxx GoodRegressor.cpp -o GoodRegressor.x -std=c++11
+
+External library: Eigen only

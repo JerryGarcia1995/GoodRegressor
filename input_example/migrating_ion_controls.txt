@@ -1,0 +1,2 @@
+DoNotFindNeighbors(IfNone,"-") Li Na Mg Ag K Ca Zn -H -N -F -S -Cl -Se -Br -I -O
+AnionName(IfNone,"-"//YouCanAddCationNamesAlso...Try)	* Li 1 Na 1 Mg 2 Ag 1 K 1 Ca 2 Zn 2 limit 0.1

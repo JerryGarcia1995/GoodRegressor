@@ -18,7 +18,7 @@ If you intend to use GoodRegressor on behalf of, or for the benefit of,
 a for-profit organization, please contact:
 
 Associate Professor Seong-Hoon Jang  
-University-wide Data Science and AI Center (UDAC)  
+Unprecedented-scale Data Analytics Center (UDAC)  
 Tohoku University  
 jang.seonghoon.b4@tohoku.ac.jp
 

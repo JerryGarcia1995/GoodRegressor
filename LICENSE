@@ -1,98 +1,126 @@
-# PolyForm Strict License 1.0.0
+#Strict License 1.0.0 without Patent License
 
-<https://polyformproject.org/licenses/strict/1.0.0>
+##Acceptance
+In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
 
-## Acceptance
+##Copyright License
+The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose, other than distributing the software or making changes or new works based on the software.
 
-In order to get any license under these terms, you must agree
-to them as both strict obligations and conditions to all
-your licenses.
-
-## Copyright License
-
-The licensor grants you a copyright license for the software
-to do everything you might do with the software that would
-otherwise infringe the licensor's copyright in it for any
-permitted purpose, other than distributing the software or
-making changes or new works based on the software.
-
-## Noncommercial Purposes
-
+##Noncommercial Purposes
 Any noncommercial purpose is a permitted purpose.
 
-## Personal Uses
+##Personal Uses
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is use for a permitted purpose.
 
-Personal use for research, experiment, and testing for
-the benefit of public knowledge, personal study, private
-entertainment, hobby projects, amateur pursuits, or religious
-observance, without any anticipated commercial application,
-is use for a permitted purpose.
+##Noncommercial Organizations
+Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a permitted purpose regardless of the source of funding or obligations resulting from the funding.
 
-## Noncommercial Organizations
+##Fair Use
+You may have "fair use" rights for the software under the law. These terms do not limit them.
 
-Use by any charitable organization, educational institution,
-public research organization, public safety or health
-organization, environmental protection organization,
-or government institution is use for a permitted purpose
-regardless of the source of funding or obligations resulting
-from the funding.
+##No Other Rights
+These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else. These terms do not imply any other licenses.
 
-## Fair Use
+##Violations
+The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice. Otherwise, all your licenses end immediately.
 
-You may have "fair use" rights for the software under the
-law. These terms do not limit them.
+##No Liability
+As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.
 
-## No Other Rights
+##Definitions
+The licensor is the individual or entity offering these terms, and the software is the software the licensor makes available under these terms.
+You refers to the individual or entity agreeing to these terms.
+Your company is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization. 
+Control means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise. Control can be direct or indirect.
+Your licenses are all the licenses granted to you for the software under these terms.
+Use means anything you do with the software requiring one of your licenses.
 
-These terms do not allow you to sublicense or transfer any of
-your licenses to anyone else, or prevent the licensor from
-granting licenses to anyone else.  These terms do not imply
-any other licenses.
-
-## Patent Defense
-
-If you make any written claim that the software infringes or
-contributes to infringement of any patent, your patent license
-for the software granted under these terms ends immediately. If
-your company makes such a claim, your patent license ends
-immediately for work on behalf of your company.
-
-## Violations
-
-The first time you are notified in writing that you have
-violated any of these terms, or done anything with the software
-not covered by your licenses, your licenses can nonetheless
-continue if you come into full compliance with these terms,
-and take practical steps to correct past violations, within
-32 days of receiving notice.  Otherwise, all your licenses
-end immediately.
-
-## No Liability
-
-***As far as the law allows, the software comes as is, without
-any warranty or condition, and the licensor will not be liable
-to you for any damages arising out of these terms or the use
-or nature of the software, under any kind of legal claim.***
-
-## Definitions
-
-The **licensor** is the individual or entity offering these
-terms, and the **software** is the software the licensor makes
-available under these terms.
-
-**You** refers to the individual or entity agreeing to these
-terms.
-
-**Your company** is any legal entity, sole proprietorship,
-or other kind of organization that you work for, plus all
-organizations that have control over, are under the control of,
-or are under common control with that organization.  **Control**
-means ownership of substantially all the assets of an entity,
-or the power to direct its management and policies by vote,
-contract, or otherwise.  Control can be direct or indirect.
-
-**Your licenses** are all the licenses granted to you for the
-software under these terms.
-
-**Use** means anything you do with the software requiring one
-of your licenses.
+ 
+#Strict License 1.0.0 without Patent License
+（特許ライセンスなし版）
+##承諾（Acceptance）
+利用者が本ライセンス条件に基づくいかなるライセンスを取得するためには、本ライセンス条件を、自らのすべてのライセンスに対する厳格な義務および条件として同意しなければなりません。
+________________________________________
+##著作権ライセンス（Copyright License）
+ライセンサーは利用者に対し、本ソフトウェアについて著作権ライセンスを付与します。
+このライセンスにより、利用者は、本ソフトウェアに関してライセンサーの著作権を侵害することとなる可能性のある行為のうち、許可された目的のために必要な行為を行うことができます。
+ただし、以下の行為は除かれます。
+•	ソフトウェアの頒布（配布）
+•	ソフトウェアの改変
+•	ソフトウェアを基にした新たな著作物または派生物の作成
+________________________________________
+##非営利目的（Noncommercial Purposes）
+営利を目的としないあらゆる利用目的は、許可された目的とみなされます。
+________________________________________
+##個人的利用（Personal Uses）
+以下の目的による個人的利用であり、かつ商業的応用を予定していないものは、許可された目的による利用とみなされます。
+•	公共知識の発展に寄与する研究
+•	実験
+•	試験・検証
+•	個人的な学習
+•	私的な娯楽
+•	趣味のプロジェクト
+•	アマチュア活動
+•	宗教上の実践
+________________________________________
+##非営利組織（Noncommercial Organizations）
+以下の組織による利用は、資金源や当該資金提供に伴う義務の有無にかかわらず、許可された目的による利用とみなされます。
+•	慈善団体
+•	教育機関
+•	公的研究機関
+•	公共安全機関
+•	公衆衛生機関
+•	環境保護団体
+•	政府機関
+________________________________________
+##フェアユース（Fair Use）
+利用者は、法令に基づき本ソフトウェアに関する「フェアユース（公正利用）」の権利を有している場合があります。
+本ライセンス条件は、そのような法定権利を制限するものではありません。
+________________________________________
+##その他の権利は付与されない（No Other Rights）
+本ライセンス条件は、利用者に対して以下を認めるものではありません。
+•	ライセンスを第三者へ再許諾（サブライセンス）すること
+•	ライセンスを第三者へ譲渡すること
+また、本ライセンス条件は、
+•	ライセンサーが第三者へライセンスを付与することを妨げません。
+•	明示的に規定されていないその他のライセンスが付与されることを意味しません。
+________________________________________
+##違反（Violations）
+利用者が本ライセンス条件のいずれかに違反した、または利用者に付与されたライセンスの範囲外の行為を本ソフトウェアについて行ったことが書面で最初に通知された場合であっても、
+利用者が、
+1.	本ライセンス条件への完全な適合状態を回復し、
+2.	過去の違反を是正するための実務上合理的な措置を講じ、
+かつ、
+通知受領後32日以内にこれらを実施した場合には、利用者のライセンスは引き続き有効に存続します。
+それ以外の場合には、利用者に付与されたすべてのライセンスは直ちに終了します。
+________________________________________
+##責任の否認（No Liability）
+法令で認められる最大限の範囲において、本ソフトウェアは現状有姿（"as is"）で提供され、いかなる保証または条件も付されません。
+また、ライセンサーは、本ライセンス条件、本ソフトウェアの利用、または本ソフトウェアの性質に起因または関連して生じるいかなる損害についても、法的請求の種類を問わず、利用者に対して一切責任を負いません。
+________________________________________
+##定義（Definitions）
+ライセンサー（Licensor）
+本ライセンス条件を提示する個人、法人、またはその他の組織を指します。
+ソフトウェア（Software）
+ライセンサーが本ライセンス条件の下で利用可能にしているソフトウェアを指します。
+利用者（You）
+本ライセンス条件に同意する個人または組織を指します。
+利用者の会社（Your Company）
+利用者が勤務または所属する以下の組織を指します。
+•	法人
+•	個人事業
+•	その他の組織
+さらに、以下のすべての組織も含みます。
+•	当該組織を支配する組織
+•	当該組織によって支配される組織
+•	当該組織と共通の支配下にある組織
+支配（Control）
+「支配」とは、以下のいずれかを意味します。
+•	組織の実質的にすべての資産を保有していること
+•	議決権、契約その他の手段によって、その組織の経営または方針を指揮・決定する権限を有していること
+支配には直接的な支配と間接的な支配の双方が含まれます。
+利用者のライセンス（Your Licenses）
+本ライセンス条件に基づき、本ソフトウェアについて利用者に付与されるすべてのライセンスを指します。
+利用（Use）
+利用者に付与されたライセンスのいずれかを必要とする、本ソフトウェアに関するあらゆる行為を指します。
+__________________

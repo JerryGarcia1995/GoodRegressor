@@ -3,7 +3,7 @@
 ## License
 
 GoodRegressor is source-available under the
-PolyForm Strict License 1.0.0.
+Strict License 1.0.0 without Patent License.
 
 This software is not open-source software.
 Use is permitted only as provided by the PolyForm Strict License.

@@ -17,9 +17,13 @@ See [LICENSE](LICENSE) for the complete license terms.
 If you intend to use GoodRegressor on behalf of, or for the benefit of,
 a for-profit organization, please contact:
 
+University contact for intellectual property and licensing
+Tohoku University
+chizaibu@grp.tohoku.ac.jp
+
 Associate Professor Seong-Hoon Jang  
 Unprecedented-scale Data Analytics Center (UDAC)  
 Tohoku University  
 jang.seonghoon.b4@tohoku.ac.jp
 
-Separate licensing arrangements may be available upon agreement.
+
